@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **hyeongryeon/hyeongryeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Anurag's GitHub stats](https://github-reademe-stats.vercel.app/api?username=hyeongryeon&show_icons=true&theme=radical)
